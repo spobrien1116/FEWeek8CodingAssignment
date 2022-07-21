@@ -1,0 +1,110 @@
+.body {
+    background-color: #a5d6d8
+}
+
+.links {
+    background-color: #28e4b5;
+    padding: 2rem;
+}
+
+.link {
+    background-color: #008080;
+    color: #b9f0fd;
+    padding: .5rem;
+    border-top: 1rem dashed #cabe10;
+    border-bottom: 1rem dashed #cabe10;
+    border-left: 1rem solid #b8bbb1;
+    border-right: 1rem solid #b8bbb1;
+    margin: 2rem;
+}
+
+h1 {
+    background-color: #000000;
+    color: #73aff5;
+    padding: 1rem;
+}
+
+.thirds {
+    background-color: #808080;
+    color: #ffffff;
+}
+
+.thirds li:nth-child(3n-2) {
+    background-color: #008080;
+}
+
+.thirds li:nth-child(3n-1) {
+    background-color: #cabe10;
+}
+
+.thirds li:nth-child(3n) {
+    background-color: #b8bbb1;
+}
+
+h4 {
+    background-color: #33066d;
+    color: #089920;
+    padding: 1rem;
+}
+
+.images {
+    background-color: #000000;
+    border: 1rem;
+    border-style: groove;
+    border-color: #3a1f0d
+}
+
+table {
+    border-collapse: separate;
+    width: 100%;
+    text-align: center;
+    padding: .5rem;
+    border: 1rem double #33066d;
+    background-color: #000000;
+    color: #089920;
+}
+
+th {
+    background-color: #73aff5;
+    color: #000000;
+}
+
+tr:nth-child(2n-1){
+    background-color: #33066d;
+}
+
+tr:nth-child(2n) {
+    background-color: #7c30e0;
+}
+
+td:nth-child(2n) {
+    color: #a8e9b2;
+}
+
+h5 {
+    background-color: #e0793d;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+h2 {
+    background-color: #e0553d;
+    color: #ffffff;
+}
+
+form {
+    background-color: #f3b490;
+    color: #e0553d;
+    padding: 1rem;
+}
+
+h6 {
+    background-color: #33066d;
+    color: #089920;
+}
+
+h6:hover {
+    background-color: #089920;
+    color: #33066d;
+}
+
